@@ -290,7 +290,7 @@ plt.savefig("graph_for_dfs.png")
 ```
 **Visualization**:
 
-![DFS graph](graph_for_dfs.png)
+
 
  **Solution Code**
 ``` python
